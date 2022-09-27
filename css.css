@@ -1,0 +1,9 @@
+body {background-color: saddlebrown;}
+body {
+  font-family: monaco, monospace;
+}
+img {
+	display: block;	
+	margin-left: auto;
+	margin-right: auto;
+}
